@@ -178,8 +178,6 @@ h1{
     font-size: 15px;
 }
 
-
-
 /*About Us Page*/
 .sub-header{
     height: 50vh;
@@ -216,7 +214,6 @@ h1{
 .about-col img{
     width: 100%;
 }
-
 
 /*course page*/
 .course{
@@ -266,8 +263,6 @@ h3{
     margin-bottom: 15px;
     text-align: left;
 }
-
-
 
 /*facility*/
 .facility{
@@ -322,16 +317,6 @@ h3{
     height: 10%;
 }
 
-
-
-
-
-
-
-
-
-
-
 @media(max-width: 700px)
 {
    .nav-links ul li
@@ -361,8 +346,11 @@ h3{
         cursor: pointer; 
     }
     .text-box h1{
-        font-size: 20px;
+        font-size: 30px;
     }
+    .text-box p{
+        font-size: 14px;
+    }   
     
 }
 @media (max-width:700px){
